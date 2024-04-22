@@ -1,5 +1,4 @@
 import { Router } from "express";
-import { authorizationMiddleware } from "../middlewares.js";
 import { USERS } from "../db.js";
 
 export const UserRouter = Router();

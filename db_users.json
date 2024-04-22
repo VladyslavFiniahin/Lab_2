@@ -29,11 +29,5 @@
     "login": "login-32324",
     "password": "password-22243",
     "role": "Admin"
-  },
-  {
-    "login": "login-3232w4",
-    "password": "password-22243",
-    "role": "Admin",
-    "token": "a5732ea3-8627-4310-977a-19f42d72c8e0"
   }
 ]
